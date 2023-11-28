@@ -212,7 +212,7 @@ CREATE TABLE `tb_user` (
 INSERT INTO `tb_user` (`id`, `nama`, `username`, `password`, `role_id`) VALUES
 (1, 'admin', 'admin', 'admin', 1),
 (2, 'user', 'user', 'user', 2),
-(3, 'Rizki Wahyudi', 'rizki', '123', 2);
+(3, 'Arifa Maharani', 'arifamhrni', '12322', 2);
 
 --
 -- Indexes for dumped tables
